@@ -1,0 +1,5 @@
+student app:
+function based view with rest api
+
+employee app:
+class based view with rest api
